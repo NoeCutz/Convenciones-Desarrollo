@@ -101,7 +101,7 @@ Pantalla | Layout
 Main | menu_main
 Students | menu_students
 
-### drawable
+### Drawable
 
 Para los nombres de drawables se debe seguir lo siguiente **tipoelemento**_name_elemento_color_dimension
 
