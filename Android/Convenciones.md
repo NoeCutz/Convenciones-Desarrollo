@@ -93,3 +93,20 @@ Students | app_bar_students
 * Cualquier otro layout que no caiga en cualquiera de estos tipos seguira el siguiente formato **layout**_funcion.
 
 
+### Menus
+Para los nombres de recursos de menus se debe seguir lo siguiente **menu**_pantalla
+
+Pantalla | Layout
+--- | ---
+Main | menu_main
+Students | menu_students
+
+### drawable
+
+Para los nombres de drawables se debe seguir lo siguiente **tipoelemento**_name_elemento_color_dimension
+
+Elemento | Drawable
+--- | ---
+blue house icon with size 24dp | icon_house_blue_24dp
+red square selector   | selector_square_red
+
