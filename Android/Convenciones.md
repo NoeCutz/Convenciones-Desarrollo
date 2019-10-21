@@ -92,7 +92,6 @@ Students | app_bar_students
 
 * Cualquier otro layout que no caiga en cualquiera de estos tipos seguira el siguiente formato **layout**_funcion.
 
-
 ### Menus
 Para los nombres de recursos de menus se debe seguir lo siguiente **menu**_pantalla
 
@@ -109,4 +108,20 @@ Elemento | Drawable
 --- | ---
 blue house icon with size 24dp | icon_house_blue_24dp
 red square selector   | selector_square_red
+
+## Id's de los recursos
+
+Los id's de los recurso deben seguir lo siguiente **tipoElemento**_funcionElemento
+
+Tipo Elemento | Nombre
+----- | ----
+Boton | btn_
+Input | inpt_
+EditText | edtTxt_
+InputLayout | inptLayt_
+EditTextLayout | edtTxtLayt
+
+
+
+
 
